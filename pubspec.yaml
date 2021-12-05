@@ -1,0 +1,8 @@
+name: asset_data
+description: Asset data embedded in dart code
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: '>=2.15.0 <3.0.0'
+
